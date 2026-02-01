@@ -1,1 +1,1 @@
-# User-Behavior-Analytics-at-Scale
+# User Behavior Analytics at Scale
